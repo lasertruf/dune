@@ -7,10 +7,10 @@ class Lore extends Component {
   render() {
     return (
       <div>
-        <div className="container characters ">
-          <div className="w-full flex justify-start px-20  items-center">
-            <div className="w-full  flex flex-wrap justify-stretch items-stretch hide-scroll ">
-              {this.loreData.map((lore) => (
+   <div className="w-full flex justify-center  ">
+        <div className="w-full flex mt-5 justify-start lg:px-20 sm:px-0 md:px-10 card-solo items-center">
+          <div className="w-full flex flex-wrap justify-center items-stretch hide-scroll">
+                   {this.loreData.map((lore) => (
                 <div key={lore.title} className="flex justify-start">
                   <div className="rounded-xl shadow-md m-2 w-80 bg-white opacity-85  flex-col flex justify-evenly ">
                     <div className="p-4 pb-0 text-xl">{lore.title}</div>

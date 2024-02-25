@@ -30,6 +30,8 @@ body,
   height: 100%;
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
   monospace;
+  scrollbar-width: none;
+
 }
 
 .app{
@@ -52,6 +54,10 @@ body,
   overflow: auto;
 }
 
+.scrollbar-none{
+  scrollbar-width: none;
+}
+
 .active{
 
 h1{
@@ -60,3 +66,34 @@ h1{
 
 }
 }
+
+
+
+.card-wrapper{
+
+}
+
+
+.card-solo{
+  animation: fade 0.8s ease-in-out;
+}
+
+
+@keyframes fade {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:0.85;
+  }
+}
+
+@keyframes slide-in {
+  0% {
+    transform: translateX(100px);
+  }
+  100% {
+    transform: translateX(0px);
+  }
+}
+

@@ -6,10 +6,10 @@ class Organizations extends Component {
   organizations = organizationsData;
   render() {
     return (
-      <div className="container characters ">
-        <div className="w-full flex justify-start px-20  items-center">
-          <div className="w-full  flex flex-wrap justify-start items-stretch hide-scroll ">
-            {this.organizations.map((org) => (
+      <div className="w-full flex justify-center  ">
+      <div className="w-full flex mt-5 justify-start lg:px-20 sm:px-0 md:px-10 card-solo items-center">
+        <div className="w-full flex flex-wrap justify-center items-stretch hide-scroll">
+           {this.organizations.map((org) => (
               <div key={org.title} className="flex justify-start">
                 <div className="rounded-xl shadow-md m-2 w-80 bg-white opacity-85  flex-col flex justify-evenly ">
                     <div className="p-4 pb-0 text-xl">{org.title}</div>

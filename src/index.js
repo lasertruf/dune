@@ -2,9 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import './output.css';
-import App from './App';
 import Characters from './characters/characters';
-import { BrowserRouter as Router, Route, Switch, Routes  } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes, Navigate  } from "react-router-dom";
+import { redirect } from 'react-router-dom';
 import Header from './header/header';
 import Organizations from './organizations/organizations';
 import Lore from './lore/lore';
@@ -17,10 +17,10 @@ root.render(
         <Header></Header>
 
       <Routes>
-        <Route exact path="/"  Component={Characters} />
         <Route exact path="/characters" Component={Characters} />
         <Route exact path="/organizations" Component={Organizations} />
         <Route exact path="/lore" Component={Lore} />
+        <Route path='/' element={<Navigate to='/characters' />} />
       </Routes>
     </Router>
   //   </BrowserRouter>
