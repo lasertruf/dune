@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dune/static/css/main.66628dd6.css",
-    "main.js": "/dune/static/js/main.8a9a16d2.js",
+    "main.css": "/dune/static/css/main.ba6fc7c0.css",
+    "main.js": "/dune/static/js/main.d18e3f8e.js",
     "static/media/Dune.jpg": "/dune/static/media/Dune.112cb83c35cb7391753c.jpg",
     "static/media/Sietch.jpg": "/dune/static/media/Sietch.22448f4b684d5c894bc3.jpg",
     "static/media/Stilgar.jpg": "/dune/static/media/Stilgar.f8ee40af1e5eecf45387.jpg",
@@ -29,11 +29,11 @@
     "static/media/CHOAM.jpg": "/dune/static/media/CHOAM.76bb5ba67313cc06d05d.jpg",
     "static/media/Sardukar.jpg": "/dune/static/media/Sardukar.931a46a22baaba610f02.jpg",
     "index.html": "/dune/index.html",
-    "main.66628dd6.css.map": "/dune/static/css/main.66628dd6.css.map",
-    "main.8a9a16d2.js.map": "/dune/static/js/main.8a9a16d2.js.map"
+    "main.ba6fc7c0.css.map": "/dune/static/css/main.ba6fc7c0.css.map",
+    "main.d18e3f8e.js.map": "/dune/static/js/main.d18e3f8e.js.map"
   },
   "entrypoints": [
-    "static/css/main.66628dd6.css",
-    "static/js/main.8a9a16d2.js"
+    "static/css/main.ba6fc7c0.css",
+    "static/js/main.d18e3f8e.js"
   ]
 }
