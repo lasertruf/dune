@@ -35,6 +35,11 @@ export const charactersData = [
     src: require("../assets/Chani.jpg"),
   },
   {
+    name: "Stilgar",
+    desc: "A Fremen warrior and leader of the Sietch Tabr tribe. Earns Paul's trust and becomes an important ally in the Fremen rebellion against the Harkonnens.",
+    src: require("../assets/Stilgar.jpg"),
+  },
+  {
     name: "Baron Vladimir Harkonnen",
     desc: "The primary antagonist, head of House Harkonnen, and bitter enemy of House Atreides. Ruthless, cunning, and seeks to destroy House Atreides.",
     src: require("../assets/Baron.jpg"),
