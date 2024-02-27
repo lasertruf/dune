@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/dune/static/css/main.1e5f0a73.css",
-    "main.js": "/dune/static/js/main.04f1e655.js",
+    "main.js": "/dune/static/js/main.1ae2dfde.js",
+    "static/js/787.26bfaf4c.chunk.js": "/dune/static/js/787.26bfaf4c.chunk.js",
     "static/media/Protectiva.jpg": "/dune/static/media/Protectiva.6522f285c154c5e70b02.jpg",
     "static/media/Dune.jpg": "/dune/static/media/Dune.112cb83c35cb7391753c.jpg",
     "static/media/Spice.jpg": "/dune/static/media/Spice.6e2cc422b12c367b128f.jpg",
@@ -31,16 +32,18 @@
     "static/media/Plot.jpg": "/dune/static/media/Plot.65e3e0abf9c96d16afd5.jpg",
     "static/media/Salusa.jpg": "/dune/static/media/Salusa.441e3aba0738cc70d574.jpg",
     "static/media/Spacing.jpg": "/dune/static/media/Spacing.fd220760027e48c91213.jpg",
+    "service-worker.js": "/dune/service-worker.js",
     "static/media/Landsraad.jpg": "/dune/static/media/Landsraad.6b5594b67b0a1061f082.jpg",
     "static/media/Duncan.jpg": "/dune/static/media/Duncan.517495cd2cdf44dd9574.jpg",
     "static/media/CHOAM.jpg": "/dune/static/media/CHOAM.76bb5ba67313cc06d05d.jpg",
     "static/media/Sardukar.jpg": "/dune/static/media/Sardukar.931a46a22baaba610f02.jpg",
     "index.html": "/dune/index.html",
     "main.1e5f0a73.css.map": "/dune/static/css/main.1e5f0a73.css.map",
-    "main.04f1e655.js.map": "/dune/static/js/main.04f1e655.js.map"
+    "main.1ae2dfde.js.map": "/dune/static/js/main.1ae2dfde.js.map",
+    "787.26bfaf4c.chunk.js.map": "/dune/static/js/787.26bfaf4c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e5f0a73.css",
-    "static/js/main.04f1e655.js"
+    "static/js/main.1ae2dfde.js"
   ]
 }
