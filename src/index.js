@@ -9,6 +9,8 @@ import Header from './header/header';
 import Organizations from './organizations/organizations';
 import Lore from './lore/lore';
 import Timeline from './timeline/timeline';
+import * as serviceWorkerRegistration from './serviceWorkerRegistration';
+import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -28,4 +30,8 @@ root.render(
   //   </BrowserRouter>
   // </React.StrictMode>
 );
+
+serviceWorkerRegistration.unregister();
+
+reportWebVitals();
 
