@@ -8,6 +8,7 @@ import { redirect } from 'react-router-dom';
 import Header from './header/header';
 import Organizations from './organizations/organizations';
 import Lore from './lore/lore';
+import Timeline from './timeline/timeline';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -20,6 +21,7 @@ root.render(
         <Route exact path="/characters" Component={Characters} />
         <Route exact path="/organizations" Component={Organizations} />
         <Route exact path="/lore" Component={Lore} />
+        <Route exact path="/timeline" Component={Timeline} />
         <Route path='/' element={<Navigate to='/characters' />} />
       </Routes>
     </Router>

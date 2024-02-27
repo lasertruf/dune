@@ -32,6 +32,12 @@ class Header extends Component {
           Lore
           </h1>
           </NavLink>
+
+          <NavLink to="/timeline" activeClassName="active">
+          <h1 className="text-3xl m-5 bg-gray-100 p-2 opacity-85 rounded-lg shadow-md">
+          Timeline
+          </h1>
+          </NavLink>
         
       
         </nav>

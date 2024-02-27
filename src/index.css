@@ -49,13 +49,12 @@ body,
 
 .hide-scroll{
   scrollbar-width: none;
-  height: calc(100vh - 100px);
+  height: calc(100vh - 120px);
   margin-top: 100px;
   overflow: auto;
 }
 
-.scrollbar-none{
-  scrollbar-width: none;
+.scrollbar-none{  scrollbar-width: none;
 }
 
 .active{
