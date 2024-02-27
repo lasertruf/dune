@@ -1,27 +1,34 @@
 {
   "files": {
-    "main.css": "/dune/static/css/main.ba6fc7c0.css",
-    "main.js": "/dune/static/js/main.d18e3f8e.js",
+    "main.css": "/dune/static/css/main.1e5f0a73.css",
+    "main.js": "/dune/static/js/main.04f1e655.js",
+    "static/media/Protectiva.jpg": "/dune/static/media/Protectiva.6522f285c154c5e70b02.jpg",
     "static/media/Dune.jpg": "/dune/static/media/Dune.112cb83c35cb7391753c.jpg",
+    "static/media/Spice.jpg": "/dune/static/media/Spice.6e2cc422b12c367b128f.jpg",
     "static/media/Sietch.jpg": "/dune/static/media/Sietch.22448f4b684d5c894bc3.jpg",
     "static/media/Stilgar.jpg": "/dune/static/media/Stilgar.f8ee40af1e5eecf45387.jpg",
+    "static/media/Escape.jpg": "/dune/static/media/Escape.d25136b46e78a973f8fd.jpg",
     "static/media/Leto.jpg": "/dune/static/media/Leto.f55cf8469503b1574a83.jpg",
     "static/media/Irulan.jpg": "/dune/static/media/Irulan.8c63be64a1b81df5a92b.jpg",
     "static/media/Paul.jpg": "/dune/static/media/Paul.235640f0c471d004675f.jpg",
     "static/media/Gurney.jpg": "/dune/static/media/Gurney.6d63418587aa86ab21e0.jpg",
-    "static/media/Caladan.jpg": "/dune/static/media/Caladan.1c6011c0edc65fff4ca1.jpg",
+    "static/media/Tooth.jpg": "/dune/static/media/Tooth.4f099dd80a5c46befa60.jpg",
     "static/media/Fremen.jpg": "/dune/static/media/Fremen.34ca72e4ff3f469c993a.jpg",
+    "static/media/Caladan.jpg": "/dune/static/media/Caladan.1c6011c0edc65fff4ca1.jpg",
     "static/media/Piter.jpg": "/dune/static/media/Piter.68c0b734b9ab50141538.jpg",
-    "static/media/Arrakis.jpg": "/dune/static/media/Arrakis.d41d23469b7ebf5e0610.jpg",
+    "static/media/Arrakis.jpg": "/dune/static/media/Arrakis.580f039872b5e9661d82.jpg",
     "static/media/Mentats.jpg": "/dune/static/media/Mentats.cb697f376e631a42e571.jpg",
     "static/media/Sandworm.jpg": "/dune/static/media/Sandworm.70052dd33fa03f6368e8.jpg",
     "static/media/Feyd.jpg": "/dune/static/media/Feyd.7ceec4029ed292cfdb74.jpg",
     "static/media/Thufir.jpg": "/dune/static/media/Thufir.5b9100002a4e9a4435a1.jpg",
+    "static/media/Kwisatz.jpg": "/dune/static/media/Kwisatz.d1da1ab593cb95d7b1f0.jpg",
     "static/media/Jessica.jpg": "/dune/static/media/Jessica.6b6c486b157c701130a7.jpg",
     "static/media/Emperor.jpg": "/dune/static/media/Emperor.db8e523a82ea9079f344.jpg",
+    "static/media/Harvester.jpg": "/dune/static/media/Harvester.c24d651f42af815c652d.jpg",
     "static/media/Bene.jpg": "/dune/static/media/Bene.9b66fdf9263a04c901ee.jpg",
     "static/media/Chani.jpg": "/dune/static/media/Chani.6243b87923395b18efb5.jpg",
     "static/media/Yueh.jpg": "/dune/static/media/Yueh.96110d647d2e718db451.jpg",
+    "static/media/Plot.jpg": "/dune/static/media/Plot.65e3e0abf9c96d16afd5.jpg",
     "static/media/Salusa.jpg": "/dune/static/media/Salusa.441e3aba0738cc70d574.jpg",
     "static/media/Spacing.jpg": "/dune/static/media/Spacing.fd220760027e48c91213.jpg",
     "static/media/Landsraad.jpg": "/dune/static/media/Landsraad.6b5594b67b0a1061f082.jpg",
@@ -29,11 +36,11 @@
     "static/media/CHOAM.jpg": "/dune/static/media/CHOAM.76bb5ba67313cc06d05d.jpg",
     "static/media/Sardukar.jpg": "/dune/static/media/Sardukar.931a46a22baaba610f02.jpg",
     "index.html": "/dune/index.html",
-    "main.ba6fc7c0.css.map": "/dune/static/css/main.ba6fc7c0.css.map",
-    "main.d18e3f8e.js.map": "/dune/static/js/main.d18e3f8e.js.map"
+    "main.1e5f0a73.css.map": "/dune/static/css/main.1e5f0a73.css.map",
+    "main.04f1e655.js.map": "/dune/static/js/main.04f1e655.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba6fc7c0.css",
-    "static/js/main.d18e3f8e.js"
+    "static/css/main.1e5f0a73.css",
+    "static/js/main.04f1e655.js"
   ]
 }
